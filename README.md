@@ -44,7 +44,4 @@ The best route is plotted using `matplotlib`, with all cities labeled and connec
 - The evolutionary algorithm handles missing constraints like fixed starting point  
 - Randomness is controlled with `np.random.seed(33)` for reproducibility
 
-👥 **Group Members**  
-- Name Surname – ID  
-- Name Surname – ID  
-*(Make sure all names and IDs are included exactly as on the cover page)*
+
